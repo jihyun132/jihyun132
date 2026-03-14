@@ -17,6 +17,7 @@ jihyunkim
 ![js](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
 ## Activity
-- 영남대학교 멋쟁이사자처럼 12기 FE (24. 1. 1. - 24.12.31.)
-- 영남대학교 멋쟁이사자처럼 13기 FE 운영진 (25. 1. 1. - 25.12.31.)
-- 42 Gyeongsan 3기 Cadet (25. 10. 1. ~ )
+- 영남대학교 멋쟁이사자처럼 12기 FE (24. 03. 16 - 24. 12. 31.)
+- 영남대학교 멋쟁이사자처럼 13기 FE 운영진 (25. 1. 1. - 25. 12. 31.)
+- 42 Gyeongsan 3기 Cadet (25. 10. 01. ~ )
+- [전자책] 어느 순간 망가지는 리액트 프로젝트 Chapter 3, Chapter 4 집필 (25. 12 - 26. 03)
